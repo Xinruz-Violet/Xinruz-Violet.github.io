@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Xinru Zhao",
     "section": "",
-    "text": "Hi, there! This is my website sharing the projects I’ve finished. Feel free to check! Thank You!!\n\nAbout me\nI’m a Business Analytics student at UC Irvine’s Paul Merage School, with expertise in statistical analysis, marketing analytics, and machine learning.\nThrough projects and work experience, I’ve strengthened my data analytics skills and marketing knowledge, focusing on Machine Learning, Natural Language Processing, data management and interested in leveraging my skills to figure out meaningful insights in real world.\nI’m passionate about leveraging these skills in diverse industries to support company growth. Open to opportunities where I can apply my analytical abilities. Connect with me!"
+    "text": "Hi, there! This is my website sharing the projects I’ve finished. Feel free to check! Thank You!!\n\nAbout me\nWelcome! I’m Xinru (Violet) Zhao — a business analytics graduate with a passion for uncovering patterns in data and translating them into strategic decisions.\nMy portfolio showcases real-world projects in marketing analytics, NLP, and predictive modeling. From analyzing startup success trends using SQL, to boosting model performance for HR attrition analysis, each project reflects my focus on business impact, clarity of communication, and technical rigor.\nI believe that great analysts do more than crunch numbers — they ask the right questions, tell compelling stories with data, and help teams move forward with confidence. Let’s connect."
   },
   {
     "objectID": "projects/Statistic Data Analysis/index.html",
@@ -58,42 +58,42 @@
   {
     "objectID": "projects/Y Combinator Proj/index.html",
     "href": "projects/Y Combinator Proj/index.html",
-    "title": "Y Combinator Startup Project",
+    "title": "Startup Success Profiling via SQL",
     "section": "",
     "text": "Finish Date: 2025-3-19"
   },
   {
     "objectID": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-datasource-and-slides-button-to-check.",
     "href": "projects/Y Combinator Proj/index.html#for-more-detail-information-please-click-datasource-and-slides-button-to-check.",
-    "title": "Y Combinator Startup Project",
+    "title": "Startup Success Profiling via SQL",
     "section": "For more detail information, please click “datasource” and “slides” button to check.",
     "text": "For more detail information, please click “datasource” and “slides” button to check."
   },
   {
     "objectID": "projects/Y Combinator Proj/index.html#thank-you",
     "href": "projects/Y Combinator Proj/index.html#thank-you",
-    "title": "Y Combinator Startup Project",
+    "title": "Startup Success Profiling via SQL",
     "section": "Thank You!!",
     "text": "Thank You!!"
   },
   {
     "objectID": "projects/Sun County Airline Project/index.html",
     "href": "projects/Sun County Airline Project/index.html",
-    "title": "Sun Country Airlines Case Project",
+    "title": "Customer Segmentation for Airline Loyalty Strategy",
     "section": "",
     "text": "Finish Date: 2024-9-08"
   },
   {
     "objectID": "projects/Sun County Airline Project/index.html#for-more-detail-information-please-click-report-to-check.",
     "href": "projects/Sun County Airline Project/index.html#for-more-detail-information-please-click-report-to-check.",
-    "title": "Sun Country Airlines Case Project",
+    "title": "Customer Segmentation for Airline Loyalty Strategy",
     "section": "For more detail information, please click “report” to check.",
     "text": "For more detail information, please click “report” to check."
   },
   {
     "objectID": "projects/Sun County Airline Project/index.html#thank-you",
     "href": "projects/Sun County Airline Project/index.html#thank-you",
-    "title": "Sun Country Airlines Case Project",
+    "title": "Customer Segmentation for Airline Loyalty Strategy",
     "section": "Thank You!!",
     "text": "Thank You!!"
   },
@@ -114,21 +114,21 @@
   {
     "objectID": "projects/HR Attrition Project/index.html",
     "href": "projects/HR Attrition Project/index.html",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
+    "title": "Employee Attrition Prediction Using Machine Learning",
     "section": "",
     "text": "Finish Date:2024-12-06"
   },
   {
     "objectID": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-button-at-the-bottum-to-check.",
     "href": "projects/HR Attrition Project/index.html#for-more-detail-information-please-click-button-at-the-bottum-to-check.",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
+    "title": "Employee Attrition Prediction Using Machine Learning",
     "section": "For more detail information, please click button at the bottum to check.",
     "text": "For more detail information, please click button at the bottum to check."
   },
   {
     "objectID": "projects/HR Attrition Project/index.html#thank-you",
     "href": "projects/HR Attrition Project/index.html#thank-you",
-    "title": "Employee Retention & Performance Analysis for HR Decision-Making",
+    "title": "Employee Attrition Prediction Using Machine Learning",
     "section": "Thank You!!",
     "text": "Thank You!!"
   }
