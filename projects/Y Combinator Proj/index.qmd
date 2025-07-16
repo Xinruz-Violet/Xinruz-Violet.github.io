@@ -1,5 +1,5 @@
 ---
-title: "Y Combinator Startup Project"
+title: "Startup Success Profiling via SQL"
 author: "Xinru(Violet)Zhao, Gaohan(Hannah)Lin, Wenqi(Vicky)Wang, Yanan Sun"
 # date: "2025-3-19"
 image: images/cover.png
@@ -21,7 +21,13 @@ Finish Date: 2025-3-19
 
 # Introduction
 
-This project explores Y Combinator’s startup ecosystem through a detailed database covering companies, founders, and industries. An ER diagram and SQL analysis highlight that 71% of startups are active, with strong presence in Consumer, Fintech, and AI sectors. Founders often hail from Stanford, MIT, or tech giants like Google and Microsoft. The team recommends YC focus funding on North America, India, and UK startups, and support founders with elite education or tech experience to enhance success. This database aids venture capitalists, researchers, and acquirers in identifying high-potential startups.
+(From Y Combinator Case Project)
+
+I led the data modeling and analytics in this project to identify patterns behind successful Y Combinator startups.
+
+Using relational schemas and SQL queries on a 1,500+ startup/founder dataset, I analyzed industry distribution, founder backgrounds, and geographic trends. Results showed that consumer tech startups, Stanford/Google founders, and US-based teams had notably higher success likelihood.
+
+These findings helped simulate real-world accelerator selection logic and taught me how to turn messy founder data into actionable recommendations.
 
 
 ![Relational Data Model](images/relational.png)

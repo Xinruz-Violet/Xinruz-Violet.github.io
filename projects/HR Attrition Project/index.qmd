@@ -1,5 +1,5 @@
 ---
-title: "Employee Retention & Performance Analysis for HR Decision-Making"
+title: "Employee Attrition Prediction Using Machine Learning"
 author: "Xinru(Violet)Zhao, Kohsuke(Cody)Asano, Shin(Avery)Yang, Philip Tong, Pratiksha Gund"
 # date: "2024-12-06"
 image: images/cover.png
@@ -24,9 +24,13 @@ Finish Date:2024-12-06
 
 # Introduction
 
-Employee retention is a critical challenge for organizations, as high turnover rates can disrupt operations, increase recruitment and training costs, and negatively impact team dynamics and morale. Addressing this issue is vital for maintaining a stable workforce and ensuring organizational success. The business idea underpinning this analysis focuses on leveraging data-driven insights to proactively identify at-risk employees and implement effective retention strategies. 
+(Academic project)
 
-This study utilizes the IBM HR Analytics Employee Attrition & Performance dataset, which includes detailed information related to employee retention across 35 attributes. These attributes span various dimensions such as environmental satisfaction, compensation, and job performance ratings with an “Attrition” variable, indicating whether an employee has left the company, making it an ideal resource for analyzing turnover trends. The importance of this project lies in its potential to address a pressing business problem by combining advanced analytical techniques with real-world HR data. Organizations today face increasing competition for talent, and understanding the drivers of employee attrition is crucial for retaining top performers and maintaining a competitive edge. Through the application of machine learning models such as Random Forest, Logistic Regression, and K-Nearest Neighbors (KNN), this analysis aims to build a robust predictive framework for identifying attrition risk. These methods allow us to uncover key patterns in employee behavior, identify influential factors contributing to turnover, and offer actionable recommendations to help HR departments enhance employee retention and overall organizational stability.
+In this HR analytics project, I built and improved multiple machine learning models to predict employee turnover.
+
+I started with Logistic Regression, Random Forest, and KNN, achieving a baseline accuracy of 0.61. After hyperparameter tuning with GridSearchCV and balancing classes using SMOTE, model performance rose to 0.87.
+
+The top predictors of attrition — including commute distance, age, and work environment — were translated into actionable retention strategies for the HR team.
 
 
 # Data Overview
