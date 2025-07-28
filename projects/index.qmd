@@ -1,7 +1,31 @@
 ---
 title: Projects
 ---
-# HR Attrition Project(Python:ML)
+# Y Combinator Case Project(MySQL:Joins+Subquery)
+
+::: {.columns}
+
+![](Y Combinator Proj/images/cover.png)
+
+This project analyzes YC-backed startups to uncover success patterns. Using a comprehensive dataset (companies, founders, industries, regions, schools), the team designed an ER diagram and relational data model to map relationships. SQL queries revealed that 71% of startups remain active, with Consumer, Fintech, and AI industries leading. Stanford University and tech giants like Google dominate founder backgrounds. Insights suggest YC prioritize North America, India, and UK startups, and invest in founders from top schools and tech firms to boost survival rates, offering valuable data for investors and market researchers.
+
+Check out this analysis I performed by following the link [here](Y Combinator Proj/).
+:::
+:::
+
+# Sun Country Airlines Case Project(Python:K-Means/Excel/Tableau Dashboards)
+
+::: {.columns}
+
+![](Sun County Airline Project/images/cover.png)
+
+This project supports Sun Country Airlines' growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage.
+
+Check out this analysis I performed by following the link [here](Sun County Airline Project/).
+:::
+:::
+
+# HR Attrition Project(Python:Machine Learning)
 
 ::: {.columns}
 
@@ -34,30 +58,6 @@ Check out this analysis I performed by following the link [here](Spam Detection 
 This project explores the complexity of human kissing behavior in romantic relationships, which goes beyond biological instincts to foster emotional connection. It investigates factors influencing "Kiss Frequency," including partner attractiveness, kiss satisfaction, and broader societal influences like national GDP and the GINI index. The study aims to understand how both personal and environmental factors affect kissing habits. Unlike other animals, humans kiss more frequently in love, and this behavior may vary based on relationship type and surroundings. The analysis offers new insights into the cultural and economic aspects of kissing, with findings detailed in later sections of the report.
 
 Check out this analysis I performed by following the link [here](Statistic Data Analysis/).
-:::
-:::
-
-# Sun Country Airline Project(Python:K-Means/Excel/PowerBI)
-
-::: {.columns}
-
-![](Sun County Airline Project/images/cover.png)
-
-This project supports Sun Country Airlines' growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage.
-
-Check out this analysis I performed by following the link [here](Sun County Airline Project/).
-:::
-:::
-
-# Y Combinator Project(MySQL:Join+Subquery)
-
-::: {.columns}
-
-![](Y Combinator Proj/images/cover.png)
-
-This project analyzes YC-backed startups to uncover success patterns. Using a comprehensive dataset (companies, founders, industries, regions, schools), the team designed an ER diagram and relational data model to map relationships. SQL queries revealed that 71% of startups remain active, with Consumer, Fintech, and AI industries leading. Stanford University and tech giants like Google dominate founder backgrounds. Insights suggest YC prioritize North America, India, and UK startups, and invest in founders from top schools and tech firms to boost survival rates, offering valuable data for investors and market researchers.
-
-Check out this analysis I performed by following the link [here](Y Combinator Proj/).
 :::
 :::
 
