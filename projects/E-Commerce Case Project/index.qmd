@@ -13,6 +13,9 @@ about:
     - icon: database
       text: DataSource
       href:  https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
+    - icon: bar-chart
+      text: Tableau Visualization
+      href:  https://public.tableau.com/app/profile/xinru.zhao/viz/Book1_17551247122080/Dashboard1
 ---
 Finish Date:2025-08-12
 
