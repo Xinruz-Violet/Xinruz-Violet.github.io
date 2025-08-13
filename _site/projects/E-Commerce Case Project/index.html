@@ -160,6 +160,10 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-database"></i>
      <span class="about-link-text">DataSource</span>
   </a>
+  <a href="https://public.tableau.com/app/profile/xinru.zhao/viz/Book1_17551247122080/Dashboard1" class="about-link" rel="" target="">
+    <i class="bi bi-bar-chart"></i>
+     <span class="about-link-text">Tableau Visualization</span>
+  </a>
 </div>
 </div>
   </div>
@@ -248,7 +252,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/Violet-zheart\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
