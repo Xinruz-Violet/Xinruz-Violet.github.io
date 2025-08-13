@@ -1,7 +1,7 @@
 ---
 title: Projects
 ---
-# Y Combinator Case Project(MySQL:Joins+Subquery)
+# Y Combinator Case Project(SQL)
 
 ::: {.columns}
 
@@ -22,6 +22,18 @@ Check out this analysis I performed by following the link [here](Y Combinator Pr
 This project supports Sun Country Airlines' growth by using data-driven strategies to enhance customer engagement and loyalty. Using data from January 2013 to December 2014 (37 columns, 26,575 rows), we applied K-means Cluster Analysis and visualized results using Excel, Python, and Power BI. This enabled us to group customers by similar behaviors and preferences, supporting Precision Marketing efforts. Visualizations helped identify key segments and generate actionable insights to strengthen customer relationships and build a sustainable competitive advantage.
 
 Check out this analysis I performed by following the link [here](Sun County Airline Project/).
+:::
+:::
+
+# E-Commerce Case Project(Tableau: Dashboard)
+
+::: {.columns}
+
+![](E-Commerce Case Project/images/image.png)
+
+This project analyzes the Olist Brazilian E-commerce Public Dataset from Kaggle using a Tableau dashboard. The dashboard visualizes key metrics such as customer payment methods, top product categories, and the geographical distribution of sales and sellers, providing a concise overview of the Brazilian e-commerce market.
+
+Check out this analysis I performed by following the link [here](E-Commerce Case Project/).
 :::
 :::
 
